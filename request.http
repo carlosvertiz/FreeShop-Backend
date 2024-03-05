@@ -1,0 +1,17 @@
+### GET
+GET http://localhost:1234/products
+
+### GET
+GET http://localhost:1234/products/5
+
+###### GET
+GET http://localhost:1234/products?sortColumn=&sort=&minPrice=&maxPrice=
+
+###### GET
+GET http://localhost:1234/products/categories
+
+###### GET
+GET http://localhost:1234/products/category?category=jewelry&sortColumn=rating_rate&sort=ASC&minPrice=20&maxPrice=800
+
+###### GET
+GET http://localhost:1234/products/search/men
