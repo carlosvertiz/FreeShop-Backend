@@ -15,3 +15,6 @@ GET http://localhost:1234/products/category?category=jewelry&sortColumn=rating_r
 
 ###### GET
 GET http://localhost:1234/products/search/men
+
+### GET
+GET https://freeshop-backend-production.up.railway.app/products
